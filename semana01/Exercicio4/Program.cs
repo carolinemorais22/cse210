@@ -35,8 +35,6 @@ class Program
         float media = ((float)soma) / numeros.Count;
         Console.WriteLine($"\nA média é: {media}\n");
 
-        // Parte 3: Encontre o maior
-        // Há diversas maneiras de fazer isso, como por exemplo ordenar a lista
 
         int maior = numeros[0];
 
